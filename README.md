@@ -1,2 +1,2 @@
 # beginning-projects
-this was created for begineer projects made by me
+this was created for begineer projects.
